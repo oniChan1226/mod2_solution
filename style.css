@@ -101,13 +101,16 @@ section > p{
     #box-1 {
         width: 100%;
         clear: both;
+        margin: 5px;
     }
     #box-2 {
         width: 100%;
         clear: both;
+        margin: 5px;
     }
     #box-3 {
         width: 100%;
         clear: both;
+        margin: 5px;
     }
 }
