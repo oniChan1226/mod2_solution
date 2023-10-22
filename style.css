@@ -18,11 +18,11 @@
     /* background-color: red; */
 }
 
-.container::after {
+/* .container::after {
     content: "";
     display: block;
     clear: both;
-}
+} */
 
 .box{
     /* padding: 20px; */
